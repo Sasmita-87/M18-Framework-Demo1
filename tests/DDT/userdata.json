@@ -1,0 +1,18 @@
+{
+    "name":"jigar1",
+    "email":"jigar1567712@gmail.com",
+    "password":"jigar@567",
+    "day":"10",
+    "month":"October",
+    "year":"2010",
+    "firstName":"Jigar",
+    "lastName":"Sharma",
+    "company":"xyz solution",
+    "address":"BBSR",
+    "country":"India",
+    "state":"Odisha",
+    "city":"Pokhariput",
+    "zipcode":"756031",
+    "mobileNumber":"9800056000",
+    "ProductName" : "Blue Top"
+}
